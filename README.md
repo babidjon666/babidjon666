@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fru%2Fgifs%2F%25D0%25BA%25D0%25BE%25D1%2582%25D0%25B5%25D0%25BD%25D0%25BE%25D0%25BA&psig=AOvVaw0bOydnB4VyaB_KJ2c8PS4L&ust=1729861829694000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjXtNOLp4kDFQAAAAAdAAAAABAE" width="100"/>
-</div>
+666
 
 <!--
 **babidjon666/babidjon666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
